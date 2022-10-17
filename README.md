@@ -1,5 +1,7 @@
 ### Welcome To Abdur Rahman's Github 👋
+
 ![](https://komarev.com/ghpvc/?username=JaznanOfficial&color=blueviolet)
+
 <!-- profile view counter -->
 <!-- <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2> -->
 <p align="center">
@@ -48,20 +50,17 @@
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-</p> 
+</p>
 
 <!-- my stats -->
-
 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 
-
-
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=JaznanOfficial&theme=tokyo-night">
-</p> 
+</p>
 
 <br>
 
@@ -71,32 +70,27 @@
 <hr/>
 
 <!-- my contribution -->
- 
+
 <h2 align="center">
   My Projects
 </h2>
-
-
 
 <div align = "center">
  
  <img style="margin:50px;" src = "./images/cooking-bird.png" width='200' height= "400">
 
- 
  <img style="margin:50px;" src = "./images/doctalk.png" width='200' height= "400">
 
  <img style="margin:50px;" src = "./images/aos.png" width='200' height= "400">
   
 </div>
+<div align = "center">
+ 
+ <img style="margin:50px;" src = "https://i.ibb.co/bQS1b5p/screencapture-jaznanofficial-github-io-sample-portfolio-2022-01-17-09-13-51.png" width='200' height= "400">
+ <img style="margin:50px;" src = "https://i.ibb.co/Bw2HgVT/screencapture-jaznanofficial-github-io-mouse-food-house-2022-01-17-09-21-51.png" width='200' height= "400" 
+</div>
 
 <!-- my projects -->
-
-
-
-
-
-
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -107,11 +101,4 @@
 
 </p>
 
-
-
-
-
-
-
 <p align="center">If you like it, do fork 🍴 and give star ⭐</p>
-
