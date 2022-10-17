@@ -83,7 +83,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/jaznanofficial" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="" height="30" width="40" /></a>
+  <a href="https://github.com/jaznanofficial" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jaznanofficial/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://twitter.com/jaznanofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jaznan.official/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
