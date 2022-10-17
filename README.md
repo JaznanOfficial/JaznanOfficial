@@ -58,17 +58,19 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
- <img src="https://img.shields.io/badge/-Tailwind Css-black?style=flat-square&logo=#06B6D4"/>
- <img src="https://img.shields.io/badge/-Material Ui-black?style=flat-square&logo=#007FFF"/>
+ <img src="https://img.shields.io/badge/-Tailwind Css-black?style=flat-square&logo=tailwindcss"/>
+ <img src="https://img.shields.io/badge/-Material Ui-black?style=flat-square&logo=mui"/>
 
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=#000000"/>
+<img src="https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
  <img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku"/>
+ <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel"/>
+ <img src="https://img.shields.io/badge/-Rebder-black?style=flat-square&logo=render"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
