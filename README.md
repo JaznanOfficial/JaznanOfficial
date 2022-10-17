@@ -1,7 +1,7 @@
 ### Welcome To Abdur Rahman's Github 👋
 ![](https://komarev.com/ghpvc/?username=JaznanOfficial&color=blueviolet)
 <!-- profile view counter -->
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<!-- <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2> -->
 <p align="center">
 
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
@@ -44,13 +44,15 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JaznanOfficial&theme=tokyonight">
 </p>
 
+<br/>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight) ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial)
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p> 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaznanOfficial&layout=compact&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=JaznanOfficial&theme=algolia)
+
 
 
 
@@ -95,16 +97,12 @@
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
+
  
 <br>
 
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
