@@ -1,31 +1,49 @@
 ### Welcome To Abdur Rahman's Github 👋
 ![](https://komarev.com/ghpvc/?username=JaznanOfficial&color=blueviolet)
+<!-- profile view counter -->
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<p align="center">
 
-<!--
-**JaznanOfficial/JaznanOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
+ <img src="https://img.shields.io/badge/-Tailwind Css-black?style=flat-square&logo=tailwindcss"/>
+ <img src="https://img.shields.io/badge/-Material Ui-black?style=flat-square&logo=mui"/>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+ <img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku"/>
+ <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel"/>
+ <img src="https://img.shields.io/badge/-Render-black?style=flat-square&logo=render"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- technology i use -->
 
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/jaznanofficial)
+
+<!-- my banner page -->
 
  <p align="center">
   I'm a MERN Stack Developer 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
 </p>  
+<!-- some about  -->
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
 
-<p align="center">
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JaznanOfficial&theme=tokyonight">
+</p>
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight) ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial)
 
@@ -53,25 +71,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
- <img src="https://img.shields.io/badge/-Tailwind Css-black?style=flat-square&logo=tailwindcss"/>
- <img src="https://img.shields.io/badge/-Material Ui-black?style=flat-square&logo=mui"/>
-
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
- <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
- <img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku"/>
- <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel"/>
- <img src="https://img.shields.io/badge/-Render-black?style=flat-square&logo=render"/>
-</p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
@@ -102,10 +101,6 @@ Here are some ideas to get you started:
  
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
