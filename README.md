@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/jaznanofficial)
 
-![Abdur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight) ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaznanOfficial&layout=compact&theme=tokyonight)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JaznanOfficial&theme=algolia)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial)
+
 
 
 
