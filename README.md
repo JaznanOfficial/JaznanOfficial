@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JaznanOfficial&theme=algolia)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial)
 
 
 
