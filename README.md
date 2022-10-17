@@ -78,7 +78,7 @@
 
 
 
-<div style={{display:"flex"}} align = "center">
+<p align = "center">
  <img  src = "./images/cooking-bird.png" width='300' height='100%'>
  <img  src = "./images/doctalk.png" width='300' height='100%'>
  <img  src = "./images/aos.png" width='300' height='100%'>
