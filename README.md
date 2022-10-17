@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![MasterHead](https://i.ibb.co/0mKh0Zb/profile-1-removebg-preview-3.png)](https://github.com/jaznanofficial)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/jaznanofficial)
 
 ![Abdur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight)
 
