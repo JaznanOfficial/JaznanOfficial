@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 -->
 
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/jaznanofficial)
+<p align='center'> [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/jaznanofficial) <p/>
+
+ <p align="center">
+  I'm a MERN Stack Developer 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
+</p>  
+
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+
+<p align="center">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight) ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial)
 
@@ -44,27 +52,9 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center">
- 
-</p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
 
-</p>
 
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
-<p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
