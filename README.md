@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align='center'> [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/jaznanofficial) <p/>
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/jaznanofficial)
 
  <p align="center">
   I'm a MERN Stack Developer 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
