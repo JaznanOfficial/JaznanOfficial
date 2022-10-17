@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 
-
+<p align="center">
 
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
