@@ -1,5 +1,9 @@
 .projects-sample{
     display: flex !important;
-    justify-content: center !important;
+    justify-content: space-between !important;
     align-items: flex-start !important;
+}
+
+.projects-sample img{
+    height: 600px;
 }

@@ -79,9 +79,9 @@
 
 
 <div class="projects-sample" align = "center">
- <img  src = "./images/cooking-bird.png" width='150' height='100%'>
- <img  src = "./images/doctalk.png" width='150' height='100%'>
- <img  src = "./images/aos.png" width='150' height='100%'>
+ <img  src = "./images/cooking-bird.png" width='200'>
+ <img  src = "./images/doctalk.png" width='200'>
+ <img  src = "./images/aos.png" width='200'>
   
 </div>
 
