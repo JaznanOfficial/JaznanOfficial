@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
  <img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku"/>
  <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel"/>
- <img src="https://img.shields.io/badge/-Rebder-black?style=flat-square&logo=render"/>
+ <img src="https://img.shields.io/badge/-Render-black?style=flat-square&logo=render"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
