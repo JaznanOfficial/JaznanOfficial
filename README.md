@@ -73,15 +73,15 @@
 <!-- my contribution -->
  
 <h2 align="center">
-  My Projects <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  My Projects
 </h2>
 
 
 
 <div style={{display:"flex"}} align = "center">
- <img  src = "https://i.ibb.co/9gc2g1M/cooking-bird.png" width='300' height='100%'>
- <img  src = "https://i.ibb.co/qp90zs5/doctalk.png" width='300' height='100%'>
- <img  src = "https://i.ibb.co/gVMvbTh/aos.png" width='300' height='100%'>
+ <img  src = "./images/cooking-bird.png" width='300' height='100%'>
+ <img  src = "./images/doctalk.png" width='300' height='100%'>
+ <img  src = "./images/aos.png" width='300' height='100%'>
   
 </p>
 
