@@ -60,7 +60,7 @@
 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=JaznanOfficial&theme=tokyonight">
+ <img src="https://activity-graph.herokuapp.com/graph?username=JaznanOfficial&theme=react">
 </p> 
 
 <br>
