@@ -50,9 +50,27 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p> 
 
+<!-- my stats -->
+
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
 
 
 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=JaznanOfficial&theme=tokyonight">
+</p> 
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/JaznanOfficial/JaznanOfficial/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<hr/>
+
+ 
 
 
 
@@ -90,23 +108,6 @@
 </p>
 
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
-
- 
-<br>
-
-
-
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
-<hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
