@@ -82,8 +82,13 @@
  <a class="project-link" href='https://cooking-bird.vercel.app/' target='_blank'>
  <img  src = "./images/cooking-bird.png" width='200' height= "400">
  </a>
+
+ <a class="project-link" href='https://cooking-bird.vercel.app/' target='_blank'>
  <img  src = "./images/doctalk.png" width='200' height= "400">
+ </a>
+ <a class="project-link" href='https://cooking-bird.vercel.app/' target='_blank'>
  <img  src = "./images/aos.png" width='200' height= "400">
+ </a>
   
 </div>
 
