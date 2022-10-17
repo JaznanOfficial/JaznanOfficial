@@ -86,7 +86,7 @@
   <a href="https://github.com/jaznanofficial" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/jaznanofficial/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="40" width="40" /></a>
 <a href="https://twitter.com/jaznanofficial" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="" height="40" width="40" /></a>
-<a href="https://www.facebook.com/jaznan.official/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt="" height="40" width="40" /></a>
+<a href="https://www.facebook.com/jaznan.official/" target="blank"><img align="center" src="https://logosvector.net/wp-content/uploads/2022/02/facebook-icon-vector.png" alt="" height="40" width="40" /></a>
 
 </p>
 
