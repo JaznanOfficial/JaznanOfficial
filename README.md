@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![MasterHead](https://i.ibb.co/0mKh0Zb/profile-1-removebg-preview-3.png)](https://github.com/jaznanofficial)
+
 ![Abdur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight)
 
 
