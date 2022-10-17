@@ -78,12 +78,12 @@
 
 
 
-<div class="projects-sample" align = "center">
- <a  href='https://cooking-bird.vercel.app/' target='_blank'>
+<div align = "center">
+ <a margin='30' href='https://cooking-bird.vercel.app/' target='_blank'>
  <img class="project-link" src = "./images/cooking-bird.png" width='200' height= "400">
  </a>
 
- <a  href='https://cooking-bird.vercel.app/' target='_blank'>
+ <a margin='30' href='https://cooking-bird.vercel.app/' target='_blank'>
  <img class="project-link" src = "./images/doctalk.png" width='200' height= "400">
  </a>
  <a  href='https://cooking-bird.vercel.app/' target='_blank'>
