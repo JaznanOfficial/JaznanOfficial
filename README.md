@@ -72,7 +72,20 @@
 
 <!-- my contribution -->
  
+<h2 align="center">
+  My Projects <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
 
+
+
+<p align = "center">
+ <img  src = "https://i.ibb.co/9gc2g1M/cooking-bird.png">
+ <img  src = "https://i.ibb.co/qp90zs5/doctalk.png">
+  <img  src = "https://i.ibb.co/gVMvbTh/aos.png">
+  
+</p>
+
+<!-- my projects -->
 
 
 
