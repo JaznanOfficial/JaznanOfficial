@@ -1,5 +1,5 @@
 ### Welcome To Abdur Rahman's Github 👋
-![](https://komarev.com/ghpvc/?username=JaznanOfficial&color=purple)
+![](https://komarev.com/ghpvc/?username=JaznanOfficial&color=blueviolet)
 
 <!--
 **JaznanOfficial/JaznanOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
