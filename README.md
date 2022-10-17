@@ -79,15 +79,15 @@
 
 
 <div align = "center">
- <a style="margin:'50px';" href='https://cooking-bird.vercel.app/' target='_blank'>
- <img style="margin:'50px';" src = "./images/cooking-bird.png" width='200' height= "400">
+ <a style="margin:50px;" href='https://cooking-bird.vercel.app/' target='_blank'>
+ <img  src = "./images/cooking-bird.png" width='200' height= "400">
  </a>
 
- <a margin='30' href='https://cooking-bird.vercel.app/' target='_blank'>
- <img class="project-link" src = "./images/doctalk.png" width='200' height= "400">
+ <a style="margin:50px;" href='https://cooking-bird.vercel.app/' target='_blank'>
+ <img s src = "./images/doctalk.png" width='200' height= "400">
  </a>
- <a  href='https://cooking-bird.vercel.app/' target='_blank'>
- <img class="project-link" src = "./images/aos.png" width='200' height= "400">
+ <a style="margin:50px;" href='https://cooking-bird.vercel.app/' target='_blank'>
+ <img src = "./images/aos.png" width='200' height= "400">
  </a>
   
 </div>
