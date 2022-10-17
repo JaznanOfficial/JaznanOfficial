@@ -79,9 +79,9 @@
 
 
 <p align = "center">
- <img  src = "https://i.ibb.co/9gc2g1M/cooking-bird.png" width='50'>
- <img  src = "https://i.ibb.co/qp90zs5/doctalk.png" width='50'>
-  <img  src = "https://i.ibb.co/gVMvbTh/aos.png" width='50'>
+ <img  src = "https://i.ibb.co/9gc2g1M/cooking-bird.png" width='300'>
+ <img  src = "https://i.ibb.co/qp90zs5/doctalk.png" width='300'>
+  <img  src = "https://i.ibb.co/gVMvbTh/aos.png" width='300'>
   
 </p>
 
