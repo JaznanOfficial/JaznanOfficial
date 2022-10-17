@@ -79,8 +79,8 @@
 
 
 <div align = "center">
- <a margin='30' href='https://cooking-bird.vercel.app/' target='_blank'>
- <img class="project-link" src = "./images/cooking-bird.png" width='200' height= "400">
+ <a style="margin:'50px';" href='https://cooking-bird.vercel.app/' target='_blank'>
+ <img style="margin:'50px';" src = "./images/cooking-bird.png" width='200' height= "400">
  </a>
 
  <a margin='30' href='https://cooking-bird.vercel.app/' target='_blank'>
