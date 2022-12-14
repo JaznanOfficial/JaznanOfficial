@@ -59,7 +59,7 @@
 </h2>
 
 <p align = "center">
- <img src="https://github-readme-activity-graph.cyclic.app/?username=JaznanOfficial&theme=tokyo-night">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JaznanOfficial&theme=tokyo-night">
 </p>
 
 <br>
