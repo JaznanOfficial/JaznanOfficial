@@ -69,6 +69,14 @@
 </p>
 <hr/>
 
+
+<details>	
+  <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
+  <p align="center">
+    <a href="#"><img src="https://wakatime.com/share/@JaznanOfficial/ec179c03-1544-4124-b524-7a30f74fdc5b.svg"></a>
+  </p>
+</details>
+
 <!-- my contribution -->
 
 <h2 align="center">
