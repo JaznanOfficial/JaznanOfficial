@@ -42,8 +42,8 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JaznanOfficial&theme=tokyonight">
+  <img  src = "https://denvercoder1-github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JaznanOfficial&theme=tokyonight">
 </p>
 
 <br/>
