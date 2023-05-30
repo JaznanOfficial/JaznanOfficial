@@ -69,8 +69,8 @@
 </p>
 <hr/>
 
-<p align="center">
-  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&layout=compact&type=donut&theme=tokyonight" height="400"></center>
+<p align="center" style="height:400px">
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&layout=compact&type=donut&theme=tokyonight" height="400px"></center>
 </p>
 
 <!-- my contribution -->
