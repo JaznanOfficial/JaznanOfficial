@@ -70,7 +70,7 @@
 <hr/>
 
 <p align="center">
-  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&layout=compact&type=donut&theme=tokyonight"></center>
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&layout=compact&type=donut&theme=tokyonight" height="400"></center>
 </p>
 
 <!-- my contribution -->
