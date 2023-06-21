@@ -72,6 +72,7 @@
 
 <p align="center" style="height:1200px">
   <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&layout=compact&type=donut&theme=tokyonight" height="600px" width="800px"></center>
+  [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&theme=tokyonight&layout=compact&type=donut&sort=desc&width=800&height=600&max_lang=20)](https://github.com/KasRoudra/github-stats-card)
 </p>
 
 <!-- my contribution -->
