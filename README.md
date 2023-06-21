@@ -49,7 +49,7 @@
 <br/>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyo-night&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p>
 
 <!-- my stats -->
@@ -65,7 +65,7 @@
 <br>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaznanOfficial&theme=tokyonight&area=true&hide_border=true#gh-light-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaznanOfficial&theme=tokyo-night&area=true&hide_border=true#gh-light-mode-only" width="100%">
 
 </p>
 <hr/>
