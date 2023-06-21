@@ -69,7 +69,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/JaznanOfficial/JaznanOfficial/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+ <!-- <img src="https://github.com/JaznanOfficial/JaznanOfficial/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>-->
+ <img alt="github-snake" src="github-snake.svg" />
 </p>
 <hr/>
 
