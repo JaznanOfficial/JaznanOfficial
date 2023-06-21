@@ -70,8 +70,8 @@
 </p>
 <hr/>
 
-<p align="center" style="height:400px">
-  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&layout=compact&type=donut&theme=tokyonight" height="400px"></center>
+<p align="center" style="height:1200px">
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&layout=compact&type=donut&theme=tokyonight" height="1200px"></center>
 </p>
 
 <!-- my contribution -->
