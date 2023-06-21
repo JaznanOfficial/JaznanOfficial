@@ -41,16 +41,18 @@
  
 <br>
 
-<p align = "center">
+<div align = "center">
   <img  src = "https://denvercoder1-github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JaznanOfficial&theme=tokyonight">
-</p>
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&theme=tokyonight&layout=compact&type=donut&sort=desc&width=500&height=600&max_lang=20"/>
+</div>
 
 <br/>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-</p>
+<div align = "center">
+<img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&theme=tokyonight&layout=default&type=donut&sort=desc&width=500&height=600&max_lang=20"/>
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+  
+</div>
 
 <!-- my stats -->
 
@@ -65,13 +67,12 @@
 <br>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaznanOfficial&theme=tokyo-night&area=true&hide_border=true#gh-light-mode-only" width="100%">
-
+  <img src="https://github.com/JaznanOfficial/JaznanOfficial/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <hr/>
 
-<p align="center" style="height:1200px">
-  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&theme=tokyonight&layout=compact&type=donut&sort=desc&width=800&height=600&max_lang=20"/>
+<p align="center" style="height:400px">
+  </center>
 </p>
 
 <!-- my contribution -->
