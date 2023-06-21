@@ -65,7 +65,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/JaznanOfficial/JaznanOfficial/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaznanOfficial&theme=tokyonight)]
 </p>
 <hr/>
 
