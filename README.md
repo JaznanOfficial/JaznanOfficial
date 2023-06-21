@@ -65,7 +65,8 @@
 <br>
 
 <p align="center">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaznanOfficial&theme=tokyonight)]
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaznanOfficial&theme=tokyonight&area=true&hide_border=true#gh-light-mode-only" width="100%">
+
 </p>
 <hr/>
 
