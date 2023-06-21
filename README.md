@@ -49,7 +49,7 @@
 <br/>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyo-night&line_height=0" />
 </p>
 
 <!-- my stats -->
