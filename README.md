@@ -43,14 +43,16 @@
 
 <div align = "center">
   <img  src = "https://denvercoder1-github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight&line_height=27">
-  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&theme=tokyonight&layout=compact&type=donut&sort=desc&width=500&height=600&max_lang=20"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+
 </div>
 
 <br/>
 
 <div align = "center">
 <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&theme=tokyonight&layout=default&type=donut&sort=desc&width=500&height=600&max_lang=20"/>
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+   <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&theme=tokyonight&layout=compact&type=donut&sort=desc&width=500&height=600&max_lang=20"/>
+
   
 </div>
 
