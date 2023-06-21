@@ -71,7 +71,7 @@
 <hr/>
 
 <p align="center" style="height:1200px">
-  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&layout=compact&type=donut&theme=tokyonight" height="1200px"></center>
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=JaznanOfficial&layout=compact&type=donut&theme=tokyonight" height="600px" width="800px"></center>
 </p>
 
 <!-- my contribution -->
